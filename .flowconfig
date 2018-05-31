@@ -1,0 +1,13 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[lints]
+untyped-import=true
+unclea-type=true
+[options]
+emoji=true
+
+[strict]
