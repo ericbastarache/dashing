@@ -12,6 +12,7 @@ class Login extends React.Component {
       <div>
         <Form>
           <Field
+            name='login'
             component={TextInput}
           />
         </Form>
